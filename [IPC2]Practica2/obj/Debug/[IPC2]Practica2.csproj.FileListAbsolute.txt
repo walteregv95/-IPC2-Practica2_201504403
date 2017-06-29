@@ -1,0 +1,5 @@
+C:\Users\walteregv95\Documents\Wall-e\U\Vacasiones1s2017\IPC2\[IPC2]Practica2\[IPC2]Practica2\bin\[IPC2]Practica2.dll
+C:\Users\walteregv95\Documents\Wall-e\U\Vacasiones1s2017\IPC2\[IPC2]Practica2\[IPC2]Practica2\bin\[IPC2]Practica2.pdb
+C:\Users\walteregv95\Documents\Wall-e\U\Vacasiones1s2017\IPC2\[IPC2]Practica2\[IPC2]Practica2\obj\Debug\[IPC2]Practica2.csprojResolveAssemblyReference.cache
+C:\Users\walteregv95\Documents\Wall-e\U\Vacasiones1s2017\IPC2\[IPC2]Practica2\[IPC2]Practica2\obj\Debug\[IPC2]Practica2.dll
+C:\Users\walteregv95\Documents\Wall-e\U\Vacasiones1s2017\IPC2\[IPC2]Practica2\[IPC2]Practica2\obj\Debug\[IPC2]Practica2.pdb
